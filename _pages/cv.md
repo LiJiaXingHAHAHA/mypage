@@ -23,7 +23,7 @@ Education
 2. okay
 3. dfd
 4. [google](http://www.google.com)
-![dfd](https://LiJiaXingHAHAHA.github.io/files/my_photo.jpg)
+![dfd](https://lijiaxinghahaha.github.io/mypage/files/My_photo.JPG)
 Work experience
 ======
 * Summer 2015: Research Assistant
