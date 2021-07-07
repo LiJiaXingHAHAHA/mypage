@@ -11,10 +11,19 @@ redirect_from:
 
 Education
 ======
+
+# Education
+## Test
+### ok
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+  * haha
+1. this is me
+2. okay
+3. dfd
+4. [google](http://www.google.com)
+![dfd](https://LiJiaXingHAHAHA.github.io/files/my_photo.jpg)
 Work experience
 ======
 * Summer 2015: Research Assistant
